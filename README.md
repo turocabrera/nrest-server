@@ -1,6 +1,6 @@
-## REST SERVER
+# REST SERVER
 
-# Objetivos
+## Objetivos
 
 * Entender diferencias entre *GET, POST, PUT, DELETE*
 * Configurar servicios
